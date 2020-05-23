@@ -1,8 +1,0 @@
-{
-  "name": "send-email",
-  "description": "Simple email transmitter",
-  "memory": 128,
-  "timeout": 5,
-  "environment": {},
-  "runtime": "nodejs6.10"
-}
